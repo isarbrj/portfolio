@@ -11,6 +11,6 @@
 ## 👩‍💻 Feito por
 **Isabella Araújo**  
 
-📎 [**LinkedIn**](https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/isabellararaujo/)  
+📎 [**LinkedIn**](https://www.linkedin.com/in/isabellararaujo/)  
 
 💡 *Projeto desenvolvido com foco em apresentar minhas habilidades e criatividade na construção de interfaces web.*  
